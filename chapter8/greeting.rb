@@ -1,5 +1,9 @@
 def greeting
-  'Hello'
+  "Hello"
 end
 
-# ↑は、
+# ↑は、メソッドの定義
+
+puts greeting
+puts "Good bye"
+

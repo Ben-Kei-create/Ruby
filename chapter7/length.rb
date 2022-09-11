@@ -1,0 +1,1 @@
+puts "Wenbcamp".length
